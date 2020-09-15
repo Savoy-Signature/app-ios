@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C9B2E5EC4551C7C35C899DD94B2303D5CC7B8F86</string>
+				<key>dateExpires</key>
+				<string>25/08/2021</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C9B2E5EC4551C7C35C899DD94B2303D5CC7B8F86</string>
+						<key>dateExpires</key>
+						<string>25/08/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Capacitor.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>7BC98RVY29</string>
+						<key>name</key>
+						<string>SAVOY - INVESTIMENTOS TURISTICOS, S.A.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C9B2E5EC4551C7C35C899DD94B2303D5CC7B8F86</string>
+						<key>dateExpires</key>
+						<string>25/08/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Cordova.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>7BC98RVY29</string>
+						<key>name</key>
+						<string>SAVOY - INVESTIMENTOS TURISTICOS, S.A.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>7BC98RVY29.com.savoysignature.orion</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>7BC98RVY29</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>7BC98RVY29.com.savoysignature.orion</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Orion - Savoy Signature.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c54fbbe2-e6bc-467d-b4c2-025884e53120</string>
+				<key>name</key>
+				<string>adhoc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>7BC98RVY29</string>
+				<key>name</key>
+				<string>SAVOY - INVESTIMENTOS TURISTICOS, S.A.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
