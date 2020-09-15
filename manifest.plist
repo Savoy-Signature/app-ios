@@ -10,19 +10,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://menus.savoysignature.com/wp-content/uploads/2020/08/App.ipa</string>
-					</dict>
-					<dict>
-						<key>kind</key>
-						<string>display-image</string>
-						<key>url</key>
-						<string>https://phn0m.github.io/app/small.png</string>
-					</dict>
-					<dict>
-						<key>kind</key>
-						<string>full-size-image</string>
-						<key>url</key>
-						<string>https://phn0m.github.io/app/full.png</string>
+						<string>http://orion/wp-content/uploads/2020/09/App.ipa</string>
 					</dict>
 				</array>
 				<key>metadata</key>
